@@ -7,3 +7,9 @@
 Kubernetes Icons Set for Kubernetes Architecture Diagrams
 Draw.io
 https://stevenschwenke.de/kubernetesIconsSetForKubernetesArchitectureDiagrams
+
+Git repository
+https://github.com/kgrzybek/modular-monolith-with-ddd
+
+Blog Articles
+https://www.kamilgrzybek.com/design/modular-monolith-primer/
