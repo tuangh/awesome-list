@@ -12,4 +12,8 @@ Git repository
 https://github.com/kgrzybek/modular-monolith-with-ddd
 
 Blog Articles
+
 https://www.kamilgrzybek.com/design/modular-monolith-primer/
+
+Effective Aaggregate Design
+https://www.dddcommunity.org/library/vernon_2011/
